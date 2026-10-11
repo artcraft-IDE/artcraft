@@ -47,9 +47,9 @@ More previews are coming for image inpainting and image ingredients.
 
 | Platform | Download | Run |
 |----------|----------|-----|
-| **Windows x64** | [craft-launcher-x64.7z](../../releases) | Run installer → launch `craft-launcher-x64.7z` |
-| **Linux x64** | [craft-launcher-Linux-x64.run](../../releases) | `chmod +x` → run installer |
-| **macOS Apple Silicon** | [craft-launcher-macOS-arm64.dmg](../../releases) | Open DMG → drag to Applications |
+| **Windows x64** | [artcraft-x64.7z](../../releases) | Run installer → launch `artcraft-x64.7z` |
+| **Linux x64** | [artcraft-Linux-x64.run](../../releases) | `chmod +x` → run installer |
+| **macOS Apple Silicon** | [artcraft-macOS-arm64.dmg](../../releases) | Open DMG → drag to Applications |
 
 ---
 
